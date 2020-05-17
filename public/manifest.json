@@ -1,6 +1,6 @@
 {
-  "name" : "FASTA APP",
-  "short_name": "FASTA ",
+  "name" : "FASTA",
+  "short_name": "FASTA APP",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
